@@ -32,9 +32,3 @@ Aplikasi Kasir (Point of Sale) berbasis web yang interaktif, responsif, dan ring
 
 ---
 
-## 🏗️ Arsitektur Kode & Alur Data
-
-Aplikasi ini dirancang dengan prinsip **Single Source of Truth** (Satu Sumber Data Utama), di mana UI/tampilan akan selalu menyesuaikan dengan kondisi data (*state*) saat itu.
-
-### 1. Representasi Data (State)
-Data produk disimpan dalam sebuah *Array of Objects* yang bertindak sebagai database lokal:
