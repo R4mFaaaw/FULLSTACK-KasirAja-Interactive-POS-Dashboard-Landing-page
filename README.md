@@ -1,4 +1,4 @@
-🛒 KasirAja: Interactive POS Dashboard & Landing Page
+# 🛒 KasirAja: Interactive POS Dashboard & Landing Page
 
 Aplikasi Kasir (Point of Sale) berbasis web yang interaktif, responsif, dan ringan. Proyek ini mengintegrasikan fungsi halaman katalog produk (*Landing Page*) dengan sistem manajemen keranjang belanja kasir (*Dashboard*) dalam satu antarmuka yang dinamis menggunakan manipulasi DOM JavaScript murni (Vanilla JS).
 
